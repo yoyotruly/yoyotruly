@@ -1,4 +1,11 @@
-### Hi there, my name is Yoyo. Nice to meet you! 👋
+# Hi there, my name is Yoyo. Nice to meet you! 👋
+
+🔭 I’m currently working on building a full-stack recommender system for beers and ciders  
+🌱 I’m currently learning ML system design  
+💬 Ask me about machine learning engineering, NLP, RecSys, end-to-end machine learning  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoyoyangca/)  
+⚡ Fun fact: I'm a proud mom of 2 rescue doggos 🐶🐶 My dream is to own a farm and help hundreds of abandoned, abused or neglected animals
+
 
 <!--
 **yoyotruly/yoyotruly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🛠My Tech Stack
-**Machine Learning**
+### 🛠My Tech Stack
+#### Machine Learning
 
-Python, Spark, NLP, Recommender Systems, Spark ML, Scikit-Learn, TensorFlow, Azure, Databricks, Feature Store, HyperOpt, MLflow, Git, SQL
+`Python`, `Spark`, `NLP`, `Recommender Systems`, `Spark ML`, `Scikit-Learn`, `TensorFlow`, `Azure`, `Databricks`, `Feature Store`, `HyperOpt`, `MLflow`, `Git`, `SQL`
 
-**Web Dev**
+#### Web Dev
 
-JavaScript, TypeScript, Node with Express, Next.js, React, GraphQL, REST, Prisma, Testing
+`JavaScript`, `TypeScript`, `Node with Express`, `Next.js`, `React`, `GraphQL`, `REST`, `Prisma`, `Testing`
