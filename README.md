@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🛠Tech Stack
+##### Machine Learning
+Python, Spark, NLP, Recommender Systems, Spark ML, Scikit-Learn, TensorFlow, Azure, Databricks, Feature Store, HyperOpt, MLflow, Git, SQL
+
+##### Web Dev
+JavaScript, TypeScript, Node with Express, Next.js, React, GraphQL, REST, Prisma, Testing
