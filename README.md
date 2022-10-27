@@ -1,4 +1,4 @@
-### Hi there, my name is Yoyo. Nice to Meet You! 👋
+### Hi there, my name is Yoyo. Nice to meet you! 👋
 
 <!--
 **yoyotruly/yoyotruly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
