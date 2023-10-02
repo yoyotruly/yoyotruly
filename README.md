@@ -1,7 +1,7 @@
 # Hi there, my name is Yoyo. Nice to meet you! 👋
 
-🔭 I’m currently working on building a full-stack recommender system for beers and ciders  
-🌱 I’m currently learning ML system design  
+🔭 I’m currently working on building Voiceflow's new generation NLU
+🌱 I’m currently learning the nitty gritty of distributed systems and data parallelism
 💬 Ask me about machine learning engineering, NLP, RecSys, end-to-end machine learning  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoyoyangca/)  
 ⚡ Fun fact: I'm a proud mom of 2 rescue doggos 🐶🐶 My dream is to own a farm and help hundreds of abandoned, abused or neglected animals
