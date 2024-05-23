@@ -1,8 +1,8 @@
 # Hi there, my name is Yoyo. Nice to meet you! 👋
 
-🔭 I’m currently working on building Voiceflow's new generation NLU  
-🌱 I’m currently learning the nitty gritty of distributed systems and data parallelism  
-💬 Ask me about machine learning engineering, NLP, RecSys, end-to-end machine learning  
+🔭 I’m currently working on building Voiceflow's LLM systems
+🌱 I’m currently learning the nitty gritty of RAG
+💬 Ask me about machine learning engineering, NLU/NLP
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoyoyangca/)  
 ⚡ Fun fact: I'm a proud mom of 2 rescue doggos 🐶🐶 My dream is to own a farm and help hundreds of abandoned, abused or neglected animals
 
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### 🛠My Tech Stack
 #### Machine Learning
 
-`Python`, `Spark`, `NLP`, `NLU`, `Scikit-Learn`, `PyTorch`, `Databricks`, `Git`, `SQL`
+`Python`, `LLM`, `NLU/NLP`, `PyTorch`, `Scikit-Learn`, `Databricks`, `Git`, `SQL`
 
 #### Web Dev
 
-`JavaScript`, `TypeScript`, `Node with Express`, `Next.js`, `React`, `REST`, `Cypress`
+`TypeScript`, `JavaScript`, `Express`, `Nest.js`, `Next.js`, `React`, `REST`
