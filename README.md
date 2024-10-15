@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠My Tech Stack
+### 🛠 My Tech Stack
 #### Machine Learning
 
 `Python`, `LLM`, `NLU/NLP`, `PyTorch`, `Scikit-Learn`, `Databricks`, `Git`, `SQL`
