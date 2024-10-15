@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on building Voiceflow's LLM systems
 🌱 I’m currently learning the nitty gritty of RAG
-💬 Ask me about machine learning engineering, NLU/NLP
+💬 Ask me about machine learning engineering, NLU/NLP  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoyoyangca/)  
 ⚡ Fun fact: I'm a proud mom of 2 rescue doggos 🐶🐶 My dream is to own a farm and help hundreds of abandoned, abused or neglected animals
 
